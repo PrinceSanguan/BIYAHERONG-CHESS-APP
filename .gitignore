@@ -1,0 +1,6 @@
+# This repository is the public page for Biyaherong Chess Coach: the README and its images, nothing else.
+# The app's source lives in ..\BC-ios-app and is never pushed here.
+/*
+!/.gitignore
+!/README.md
+!/docs/
